@@ -1,0 +1,30 @@
+body {
+    font-family: 'Bacasime Antique', serif;
+    color: black;
+    background-color: antiquewhite;
+}
+
+.titreprincipal {
+    font-size: 25px;
+    background-color: cadetblue;
+}
+
+p:hover {
+    
+}
+
+#photopro {
+background-position: top right;
+background-size: auto;
+width: 200px;
+}
+
+p {
+    color: seagreen;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#certif {
+    width: 350px;
+}
